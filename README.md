@@ -1,0 +1,4 @@
+# UnityAndroid
+UnityAndroid通信
+
+一个演示在unity中调用android的唤起tokenpocket钱包并调用tp钱包的授权接口的工程
