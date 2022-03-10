@@ -1,4 +1,3 @@
-# UnityAndroid
-UnityAndroid通信
+# Unity和EOS钱包tokenpocket交互
 
-一个演示在unity中调用android的唤起tokenpocket钱包并调用eos钱包的授权接口的工程
+一个演示在unity中唤起tokenpocket钱包并调用eos授权的工程
